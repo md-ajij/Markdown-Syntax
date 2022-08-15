@@ -56,17 +56,16 @@ __This is Strong and Bold tag__
 ## html formating
 
 ```
-```
-<html>
+```<html>
   <head> 
    <title>
     This is title tag
    </titl>
   </head>
-</html>
+</html>```
 ```
+## HTML Programming Formating
 ```
-<!--programming formating-->
 
 ```html
 <html>
@@ -75,59 +74,69 @@ __This is Strong and Bold tag__
     This is title tag
    </titl>
   </head>
-</html>
+</html>```
 ```  
 
-<!--CSS formating-->
+## CSS Formating
+```
 ```CSS
 h1 {
 background: blue;
 marging: 1rem;
 padding: 2rem;
-}
+}```
 ```  
 
-<!--javascript formating-->
+## javascript Formating  
+```
 ```javascript
 let num1=25;
 let num2=30;
 let numTotal=num1+num2;
-console.log(numTotal);
+console.log(numTotal);```
 ```  
-<!--List-->
-# Order List
+# List
+## Order List
 ---
-1. Item1
+1. Item 1
    1. Item 1.1
    2. Item 1.2
-2. Item2
-3. Item3  
+2. Item 2
+3. Item 3
+5. ```
 
-
-# Unorder List
-
+## Unorder List
+```
 - Item1
    - Item1.1
    - Item 1.2
 - Item2
 - Item3
+```
 
 <br/>
 
 # Task List
+```
 - [x] Task1
 - [x] Task2
 - [] Task3
+```
 <br/>
 # Automatic Link 
+```
 http://www.helpheadmaster.wordpress.com
+```
 
 # Markdown Link Syntext:-
 
+```
 [Help Headmaster website](http://www.helpheadmaster.wordpress.com)
+```
 
 
 <hr/>
+```
 [Help Headmastet website][mywebsiteLink]
 [Facebook Page][myFaceBookLink]
   
@@ -135,6 +144,9 @@ http://www.helpheadmaster.wordpress.com
 <!--All Links are here-->
 [mywebsiteLink]: http://www.helpheadmaster.wordpress.com
 [myFaceBookLink]: http://www.facebook.com/mdaziz
+
+```
+
 <hr/>
 
 
@@ -142,11 +154,14 @@ http://www.helpheadmaster.wordpress.com
 `http://www.helpheadmaster.wordpress.com`
 
 # Image Syntax
+```
 ![profile Picture of Ajij](Image er path)
+```
 
-or 
-
-<img src="ajij.jpg" width="400" title = "profile image of Ajij" />  
+or  
+```
+`<img src="ajij.jpg" width="400" title = "profile image of Ajij" />`
+```
 
 <br />
 # Emoji adding
@@ -154,10 +169,12 @@ or
 
 <br />
 # Table  
+```
 
-| Name | Email | Mobile No |
+`| Name | Email | Mobile No |
 | ----- | ----- | ----- |
-| Md Ajij | mdajij@gmail.com | 9735612987 |  
+| Md Ajij | mdajij@gmail.com | 9735612987 |`  
+```
 
 
 
