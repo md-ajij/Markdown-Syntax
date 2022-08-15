@@ -56,13 +56,15 @@ __This is Strong and Bold tag__
 ## html formating
 
 ```
-```<html>
+```
+<html>
   <head> 
    <title>
     This is title tag
    </titl>
   </head>
-</html>```
+</html>
+```
 ```
 <!--programming formating-->
 
@@ -155,7 +157,9 @@ or
 
 | Name | Email | Mobile No |
 | ----- | ----- | ----- |
-| Md Ajij | mdajij@gmail.com | 9735612987 |
+| Md Ajij | mdajij@gmail.com | 9735612987 |  
+
+
 
 
 
