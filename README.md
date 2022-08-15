@@ -54,6 +54,7 @@ __This is Strong and Bold tag__
 
 
 ## html formating
+### you have to give an enter after the 3 backtik
 
 ```
 ```<html>
@@ -74,7 +75,7 @@ __This is Strong and Bold tag__
     This is title tag
    </titl>
   </head>
-</html>```
+</html>```  
 ```  
 
 ## CSS Formating
@@ -93,8 +94,8 @@ padding: 2rem;
 let num1=25;
 let num2=30;
 let numTotal=num1+num2;
-console.log(numTotal);
-```  
+console.log(numTotal);```  
+
 ```  
 # List
 ## Order List
