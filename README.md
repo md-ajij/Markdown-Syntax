@@ -1,17 +1,23 @@
 # Markdown-Syntax
 
-# H1 tag:-
+# H1 tag Syntax:-
+```
+# Ajij
+```
+
+
+
+# H2 tag syntax
+
 ```
 # This is h1 tag
-```
+```  
 
+# Horizontal Rule or hr tag Syntax  
 
-<!--H2 heading-->
-## Md Ajij
-
-
-<!--Horizontal Rule or hr tag-->
 ---
+```
+```
 
 <!--p tag-->
 # Paragraph Tag:-
