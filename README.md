@@ -10,7 +10,7 @@
 # H2 tag syntax
 
 ```
-# This is h1 tag
+## This is h2 tag
 ```  
 
 # Horizontal Rule or hr tag Syntax  
@@ -40,27 +40,29 @@ __This is Strong and Bold tag__
 
 
 # Inline code block in one line
+```
+`This is inline code block`
+```
 
-`This is inline code block`  
+# Programing code  
 
-<!--Programing code-->
 ```  
 `<h1> I love my India </h1>`  
 ```  
 
-<!--inlene code block in multiline-->
+# Multiple line code
 
 
-<!--html formating-->
-# Multiple line Code
+## html formating
+
 ```
-<html>
+```<html>
   <head> 
    <title>
     This is title tag
    </titl>
   </head>
-</html>
+</html>```
 ```
 <!--programming formating-->
 
