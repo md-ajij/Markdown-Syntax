@@ -93,7 +93,8 @@ padding: 2rem;
 let num1=25;
 let num2=30;
 let numTotal=num1+num2;
-console.log(numTotal);```
+console.log(numTotal);
+```  
 ```  
 # List
 ## Order List
