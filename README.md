@@ -107,21 +107,22 @@ console.log(numTotal);```
 3. Item 3`  
 ```
 ## Unorder List
-```
-- Item1
+```  
+`- Item1
    - Item1.1
    - Item 1.2
 - Item2
-- Item3
+- Item3`  
+
 ```
 
 <br/>
 
 # Task List
 ```
-- [x] Task1
+`- [x] Task1
 - [x] Task2
-- [] Task3
+- [] Task3`
 ```
 <br/>
 # Automatic Link 
