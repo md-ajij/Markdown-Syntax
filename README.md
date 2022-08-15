@@ -14,37 +14,39 @@
 ```  
 
 # Horizontal Rule or hr tag Syntax  
+ you have to give three spaces like ---
 
----
-```
-```
 
-<!--p tag-->
+
+
 # Paragraph Tag:-
 ```
 <p> This is markdown Paragraph </p>
-```
+```  
 
-
-<!--i or em tag-->
 # Italik tag or i or em tag
-_This is i tag_  
-
-<!--stong or Bold tag-->
+```
+_This is i tag_
+```  
 # Bold Tag or Strong Tag
+```
 __This is Strong and Bold tag__
+```  
 
 # Del or Strikethrough tag
-<!--del or strikethrough tag-->
+```
 ~~This is del or strikethrough tag~~
+```  
 
 
-<!--inline code block in one line-->
+# Inline code block in one line
 
 `This is inline code block`  
 
 <!--Programing code-->
+```  
 `<h1> I love my India </h1>`  
+```  
 
 <!--inlene code block in multiline-->
 
