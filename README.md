@@ -79,7 +79,7 @@ __This is Strong and Bold tag__
 
 ## CSS Formating
 ```
-```CSS
+```css
 h1 {
 background: blue;
 marging: 1rem;
@@ -97,14 +97,13 @@ console.log(numTotal);```
 ```  
 # List
 ## Order List
----
-1. Item 1
+---  
+`1. Item 1
    1. Item 1.1
    2. Item 1.2
 2. Item 2
-3. Item 3
-5. ```
-
+3. Item 3`  
+```
 ## Unorder List
 ```
 - Item1
@@ -131,19 +130,20 @@ http://www.helpheadmaster.wordpress.com
 # Markdown Link Syntext:-
 
 ```
-[Help Headmaster website](http://www.helpheadmaster.wordpress.com)
+`[Help Headmaster website](http://www.helpheadmaster.wordpress.com)`
 ```
 
 
 <hr/>
 ```
-[Help Headmastet website][mywebsiteLink]
-[Facebook Page][myFaceBookLink]
+`[Help Headmastet website][mywebsiteLink]`  
+
+`[Facebook Page][myFaceBookLink]`
   
 
-<!--All Links are here-->
-[mywebsiteLink]: http://www.helpheadmaster.wordpress.com
-[myFaceBookLink]: http://www.facebook.com/mdaziz
+# All Links are here
+`[mywebsiteLink]: http://www.helpheadmaster.wordpress.com
+[myFaceBookLink]: http://www.facebook.com/mdaziz`
 
 ```
 
@@ -153,27 +153,28 @@ http://www.helpheadmaster.wordpress.com
 # Disabled Link
 `http://www.helpheadmaster.wordpress.com`
 
-# Image Syntax
+# Image Syntax 
 ```
 ![profile Picture of Ajij](Image er path)
-```
+```  
 
 or  
 ```
 `<img src="ajij.jpg" width="400" title = "profile image of Ajij" />`
-```
+```  
 
 <br />
 # Emoji adding
 😊
 
-<br />
+<br />  
+
 # Table  
 ```
+`| Name | Email | Mobile No |  
+| ----- | ----- | ----- |  
+| Md Ajij | mdajij@gmail.com | 9735612987 |`
 
-`| Name | Email | Mobile No |
-| ----- | ----- | ----- |
-| Md Ajij | mdajij@gmail.com | 9735612987 |`  
 ```
 
 
